@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dell
+Build-Jdk: 16.0.1
+Implementation-Title: SupermarketHatleyApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: hatley.supermarket
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Supermarket-HatleyApp
+Created-By: Maven Integration for Eclipse
+
